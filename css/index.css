@@ -1,0 +1,9 @@
+.head_top>.title {
+    position: absolute;
+    top: 0px;
+    font-size: 24px;
+    font-weight: 600;
+    color: #ffffff;
+    left: 50%;
+    margin-left: -96px;
+}
